@@ -1,4 +1,5 @@
 # module linear_optics
+# This optics calculation code is the same as AT, except the settings of optimization iterations
 using LinearAlgebra
 include("transfer_map_zygote.jl")
 
